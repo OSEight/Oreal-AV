@@ -1,2 +1,3 @@
-# Oreal-AV
-An AntiVirus for Windows.
+# Oreal AV
+
+This is a RTP AV for anyone to use!
